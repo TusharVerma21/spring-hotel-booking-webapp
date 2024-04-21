@@ -4,9 +4,9 @@ This an SpringBoot application in which, we've used REST endpoints for hotel boo
 Users can book hotel, update, view and also cancel their bookings.
 
 Requirements:
-*Java : 17+
-*SpringBoot : 3.2+
-*Build Tool: Maven
+* Java : 17+
+* SpringBoot : 3.2+
+* Build Tool: Maven
 
 H2 In memory database is used.
 
