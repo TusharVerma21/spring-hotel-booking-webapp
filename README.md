@@ -1,4 +1,4 @@
-#spring-hotel-booking-webapp
+# spring-hotel-booking-webapp
 
 This an SpringBoot application in which, we've used REST endpoints for hotel booking.
 Users can book hotel, update, view and also cancel their bookings.
