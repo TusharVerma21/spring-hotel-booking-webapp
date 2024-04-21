@@ -15,6 +15,7 @@ All the documentation of endpoints can be seen in Swagger UI: http://localhost:8
 An example of adding a new Guest and his/her hotel bookings:
 Post Request : http://localhost:8080/bookHotel
 JSON :
+```
 {
     "name": "Tushar",
     "email": "tushar@gmail.com",
@@ -38,3 +39,4 @@ JSON :
         }
     ]
 }
+```
